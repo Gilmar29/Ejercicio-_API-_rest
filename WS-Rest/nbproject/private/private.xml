@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/web/index.html</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/dao/factory/SqlServerDAOFactory.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/dao/factory/DAOFactory.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/dao/beans/ProductoDAO.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/dao/beans/MySqlProductoDAO.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/service/ProductoService.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/util/Utilidades.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/dao/factory/claseabstracta.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/dao/factory/MySqlDAOFactory.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/ws/rest/ReealoServiceRest.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/util/MySQLConexion.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/util/Constantes.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/util/SQLServerConexion.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/dao/beans/ProductoDTO.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/WS-Rest/src/java/com/aprendec/dao/beans/SQLServerProductoDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
